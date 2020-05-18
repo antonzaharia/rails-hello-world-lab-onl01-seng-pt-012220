@@ -1,4 +1,4 @@
-class HelloWorld < ApplicationController
-  def greet
+class StaticController < ApplicationController
+  def hello_world
   end
 end
