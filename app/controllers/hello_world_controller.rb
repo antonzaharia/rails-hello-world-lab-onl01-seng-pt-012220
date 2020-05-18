@@ -1,4 +1,4 @@
 class HelloWorld < AplicationController
-  def hello
+  def greet
   end
 end
